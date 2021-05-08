@@ -1,0 +1,16 @@
+.MatchPage {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+   
+
+    .year-selector {
+        justify-self: end;
+        padding: 20px;
+        color: white;
+    }
+
+    .page-heading {
+        margin: 20px auto;
+        color: white;
+    }
+}
